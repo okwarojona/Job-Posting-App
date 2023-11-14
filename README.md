@@ -14,7 +14,6 @@ This Django-based job posting app allows employers to post job openings and job 
 
 - Python (>=3.6)
 - Django (>=3.0)
-- Other dependencies listed in the `requirements.txt` file.
 
 ## Installation
 
